@@ -58,4 +58,4 @@ allow the author to collect novels for themselves
 
 ## Web API CI.
 
-https://oconnordiarmuid.gitlab.io/donations-cicd/coverage/lcov-report/
+https://Ella12138.gitlab.io/novelideas/coverage/lcov-report/
