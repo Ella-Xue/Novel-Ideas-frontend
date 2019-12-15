@@ -1,0 +1,7 @@
+[
+  { "name": "DN", "keyword1": "Magic", "keyword2": "Romantic", "numofbooks": 4 },
+  { "name": "HVFR", "keyword1": "Magic", "keyword2": "History", "numofbooks": 2 },
+  { "name": "WV", "keyword1": "Whodunit", "keyword2": "Military", "numofbooks": 11 },
+  { "name": "HG", "keyword1": "History", "keyword2": "Horror", "numofbooks": 7 },
+  { "name": "GSG", "keyword1": "Romantic", "keyword2": "Whodunit", "numofbooks": 4 }
+]

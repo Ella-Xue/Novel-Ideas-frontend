@@ -1,0 +1,7 @@
+[
+  { "name": "Black and white", "author": "Brown", "type": "Magic", "recommender": "Ella" },
+  { "name": "History garden", "author": "JD", "type": "Horror", "recommender": "Ella" },
+  { "name": "Where are you", "author": "AF", "type": "History", "recommender": "Wiaa" },
+  { "name": "Hundred years", "author": "SF", "type": "Romantic", "recommender": "Wiaa" },
+  { "name": "Gun", "author": "WE", "type": "Whodunit", "recommender": "Ella" }
+]

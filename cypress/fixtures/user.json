@@ -1,0 +1,51 @@
+[
+    {
+      "novels": [],
+      "authors": [],
+      "_id": "5df3e25c99c11500173bec47",
+      "username": "Ella",
+      "password": "1212121212",
+      "email": "111@111.111",
+      "gender": "Female",
+      "age": 23,
+      "__v": 0
+    },
+  { "username": "Wiaa", "password": "aaaaaaaaa", "gender": "Female", "age": 23,
+  "novels": [
+    { "name": "Where are you", "author": "AF", "type": "History", "recommender": "Wiaa" },
+    { "name": "Hundred years", "author": "SF", "type": "Romantic", "recommender": "Wiaa" }
+  ],
+    "authors": [
+      { "name": "WV", "keyword1": "Whodunit", "keyword2": "Military", "numofbooks": 11 },
+      { "name": "HG", "keyword1": "History", "keyword2": "Horror", "numofbooks": 7 }
+    ]
+  },
+  { "username": "Wiaa", "password": "aaaaaaaaa", "gender": "Female", "age": 23 },
+  { "username": "Wiaa", "password": "aaaaaaaaa", "gender": "Female", "age": 23 },
+  { "username": "Wiaa", "password": "aaaaaaaaa", "gender": "Female", "age": 23 },
+  { "username": "Wiaa", "password": "aaaaaaaaa", "gender": "Female", "age": 23 },
+  { "username": "Wiaa", "password": "aaaaaaaaa", "gender": "Female", "age": 23 },
+  {
+    "novels": {
+      "name": "Your princess",
+      "author": "KD",
+      "type": "Magic",
+      "grade": "4"
+    },
+    "authors": [
+      {
+        "name": "Qu",
+        "keyword1": "History",
+        "keyword2": "Magic",
+        "numofbooks": "2"
+      }
+    ],
+    "_id": "5df4117c07ff150017428ab5",
+    "username": "Ammy",
+    "password": "qqqqqqqqq",
+    "email": "111@111.111",
+    "gender": "Female",
+    "age": 21,
+    "__v": 3
+  }
+]
